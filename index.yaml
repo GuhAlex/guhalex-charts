@@ -3,12 +3,12 @@ entries:
   goapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-29T19:03:07.233384072-03:00"
+    created: "2022-12-31T13:08:50.975412798-03:00"
     description: A Helm chart for Kubernetes
-    digest: 8f25f14c05f9f795581ce284627f13b063870fdd56a341ae8182e6c7e87ce38b
+    digest: a2fb350e67c6db4ac1fb6b27049668b34a1bef4dde69c7ee1e3a5b488b265651
     name: goapp
     type: application
     urls:
     - https://guhalex.github.io/guhalex-charts/goapp-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-29T19:03:07.23270291-03:00"
+generated: "2022-12-31T13:08:50.974886065-03:00"
